@@ -2,7 +2,7 @@ function add(a, b) {
   return a + b
 }
 
-function suntract(a, b) {
+function subtract(a, b) {
   return a - b
 }
 
@@ -25,3 +25,4 @@ function dec(number) {
 function makeInt(number) {
   return parseInt(number, 10)
 }
+function
